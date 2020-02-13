@@ -1,5 +1,4 @@
 # flow
-note: I've only included the C# files in the repository as the project takes too long otherwise to upload. The assets I've left out are not programming related (mainly art assets).
 
 **Flow is a deep, fast-paced game that allows players freedom of movement as far as their skill is able to take them.**
 
@@ -34,3 +33,5 @@ note: I've only included the C# files in the repository as the project takes too
 - **The only thing limitting your speed is yourself, go back to older levels and blaze through them with your improved skills.**
 
 ![](fast.gif)
+
+note: I've only included the C# files in the repository as the project takes too long otherwise to upload. The assets I've left out are not programming related (mainly art assets).
