@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ee453062bdf0bd4a842fa15822e4c65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - targetMaterial: {instanceID: 0}
+  - visibleAnimatorPrefab: {fileID: 1814817381215966, guid: fd4d19b34646ce641a6f452561507360,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

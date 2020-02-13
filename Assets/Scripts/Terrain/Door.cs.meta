@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4d5a7a19626eaa543be8bdc8039faae2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - petDoorPrefab: {fileID: 1587381062141814, guid: f678a843bb11a6b429656a3e11ac4e01,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
