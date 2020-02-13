@@ -1,0 +1,20 @@
+Name, Time, Duration, Frames
+L1_FinalTarget (Target), 3.616667, 3.432883, 205.973000
+L2_FinalTarget (Target), 66.216120, 0.000000, 0.000000
+L3_Target_1 (Target), 66.216120, 0.000000, 0.000000
+L3_FinalTarget (Target), 66.216120, 0.000000, 0.000000
+L4_Target_2 (Target), 30.828820, 27.212160, 1632.729000
+L4_FinalTarget (Target), 32.845490, 2.016666, 121.000000
+L5_Target_2 (Target), 37.755800, 4.910313, 294.618800
+L5_FinalTarget (Target), 40.522470, 2.766670, 166.000200
+L6_FinalTarget (Target), 47.314030, 6.791557, 407.493400
+L7_FinalTarget (Target), 66.216120, 0.000000, 0.000000
+L7_l7_l_L7_FinalTarget_1_1_1 (Target), 66.216120, 18.902090, 1134.125000
+L8_Target_2 (Target), 66.216120, 0.000000, 0.000000
+L8_Target_3 (Target), 66.216120, 0.000000, 0.000000
+L8_FinalTarget (Target), 66.216120, 0.000000, 0.000000
+Level1 (Level), 3.616667, 0.266667, 16.000000
+Level4 (Level), 32.845490, 24.233330, 1454.000000
+Level5 (Level), 40.522470, 5.633335, 338.000100
+Level6 (Level), 47.314030, 4.350002, 261.000100
+Level7 (Level), 66.216120, 14.683330, 880.999800
