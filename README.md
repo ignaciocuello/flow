@@ -1,4 +1,4 @@
-# flow
+# Flow
 
 **Flow is a deep, fast-paced game that allows players freedom of movement as far as their skill is able to take them.**
 
