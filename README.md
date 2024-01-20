@@ -1,12 +1,12 @@
 # flow
 
-**Flow** is a deep, fast-paced game that allows players freedom of movement as far as their skill is able to take them.
+**Flow** is a fast-paced game that allows players freedom of movement as far as their skill is able to take them.
 
 - The premise is simple, just hit the key into the lock to progress onto the next level. :key: :unlock:
 
 ![](lvl1.gif)
 
-- However you must not let the key touch the *orange stuff™*, or else the key will despawn. :x:
+- However you must not let the key touch the orange surfaces, or else the key will despawn. :x:
 
 ![](keydie.gif)
 
@@ -14,7 +14,7 @@
 
 ![](lvl3.gif)
 
-- ...you can also wall jump by the way.
+- ...and wall jumping!
 
 ![](walljump.gif)
 
