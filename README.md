@@ -1,43 +1,50 @@
 # flow
 
-**Flow** is a fast-paced game that allows players freedom of movement as far as their skill is able to take them.
+**Flow** is a dynamic platformer that allows players freedom of movement as far as their skill is able to take them.
 
-- The premise is simple, just hit the key into the lock to progress onto the next level. :key: :unlock:
+## About Flow
 
-![](lvl1.gif)
+The premise is simple, just hit the key into the lock to progress onto the next level. :key: :unlock:
 
-- However you must not let the key touch the orange surfaces, or else the key will despawn. :x:
+![Level 1](lvl1.gif)
 
-![](keydie.gif)
+However you must not let the key touch the orange surfaces. :x:
 
-- Things get a bit more interesting once you start adding more keys to the mix. :key::key:
+![Key Dying](keydie.gif)
 
-![](lvl3.gif)
+Things get a bit more interesting once we start adding more keys into the mix. :key::key:
 
-- ...and wall jumping!
+![Level 3](lvl3.gif)
 
-![](walljump.gif)
+Once we add wall jumping, we can start to have a little more fun. 😈 
 
-- Once we add that, we can start to have a little more fun. Complete levels as fast as possible to earn more cash. :dollar: 
+![Level 5](lvl5.gif)
 
-![](lvl5.gif)
+Levels flow seemlessly into each other, progressively increasing in difficulty. Complete them as fast as possible to earn more cash. :dollar: 
 
-- Levels flow seemlessly into one another while progressively increasing in difficulty.
+![Hidden Level](hidden.gif)
 
-![](hidden.gif)
+When you're finished you must hide away your money... then you're off to the next heist. :money_with_wings:
 
-- Once you're finished you must hide away your cash ... and you're off to your next heist. :money_with_wings:
+![End Screen](endscreen.gif)
 
-![](endscreen.gif)
+The only thing limitting your speed is yourself, go back to older levels and blaze through them with your improved skills. :clock1:
 
-- The only thing limitting your speed is yourself, go back to older levels and blaze through them with your improved skills. :clock1:
+![Fast](fast.gif)
 
-![](fast.gif)
+## On Difficulty Tuning
 
-## A Note on difficulty tuning.
+One of the biggest challanges when developing a game is finding the sweet-spot for difficulty. Make the game too hard and you risk frustrating your players. Make the game too easy and it becomes trivial and boring.
 
-One of the biggest challanges when developing a game is finding the sweet-spot for difficulty. Make the game too hard and you risk frustrating your players resulting in them likely quitting your game. Make the game too easy and it becomes trivial and boring resulting in your players again likely quitting your game.<p>In order to tackle this issue, I decided the game would automatically save a replay of the player's playthrough. With each player's consent the replay (along with inputs and other stats) was uploaded to an **Azure** blob storage, where I could take a look at it and notice any common issues players were having.<p>In addition to explicit player feedback, the replays helped immensely in fine tuning the game and overall making it more enjoyable to play. Countless levels and mechanics were discarded or reworked as a result of this, but the game turned out for the better because of it.
+In order to tackle this issue, the game would automatically save a replay of each player's playthrough. With their consent, the replay, along with inputs and other stats, was then uploaded to an **Azure** blob storage. Here I could take a look at the replay and address any common issues players were having.
 
-Flow was originally made in 2018.
+The replays, alongside explicit player feedback, helped immensely in fine tuning the game and making it more enjoyable to play. Countless levels and mechanics were discarded or reworked as a result of this, but the game turned out all the better because of it.
 
-note: I've only included the C# files in the repository as the project takes too long otherwise to upload. The assets I've left out are not programming related (mainly art assets).
+## Project History
+
+### Original Development
+Flow was first developed in 2018. I always thought comboing things in fighting games was fun, but wanted to bring that to a single player experience. 
+Thus flow was born.
+
+### Migration to GitHub
+The project, excluding art assets, was uploaded to GitHub in 2020. This move was intended to archive the code and make it accessible to the public.
