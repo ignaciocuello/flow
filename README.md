@@ -1,6 +1,6 @@
 # flow
 
-**Flow** is a dynamic platformer that allows players freedom of movement as far as their skill is able to take them.
+**Flow** is a combo oriented platformer that allows players freedom of movement as far as their skill is able to take them.
 
 ## About Flow
 
